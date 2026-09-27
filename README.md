@@ -1,4 +1,4 @@
-# Day 3 - Button Collection
+# Day 3 - Button Collection 🔴
 
 Project ketiga dari challenge 30 Days CSS.
 
